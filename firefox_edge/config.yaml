@@ -1,9 +1,9 @@
-name: "Firefox (Edge)"
+name: "Custom(Edge)"
 version: "1.5.0"
-slug: "firefox_edge"
-panel_icon: "mdi:firefox"
+slug: "custom_edge"
+panel_icon: "mdi:wrench"
 description: "Docker container for Firefox. Update to the latest Firefox version on container start."
-url: "https://github.com/mincka/ha-addons/tree/main/firefox_edge"
+url: "https://github.com/mubasharhanif17/ha-addons/tree/main/el_edge"
 arch:
   - aarch64
   - amd64
